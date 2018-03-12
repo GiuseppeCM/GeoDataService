@@ -1,0 +1,82 @@
+{
+    "Theme": "Mobilità e Trasporti",
+    "Dataset": "Varchi e orari ZTL",
+    "Color":"#51bbd6",
+    "Data": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4653076,
+                        41.9004637
+                    ]
+                },
+                "properties": {
+                    "Title": "Varchi e Orari ZTL",
+                    "Description": "In questo box troverai le informazioni relative alla posizione del varco ZTL e relativi orari di funzionamento.",
+                    "Zona": "ZTL Roma centro storico notturna",
+                    "Varco": "Via Panico",
+                    "Orari": "23.00-3.00, le notti di venerdì e sabato",
+                    "icon": "car"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4723806,
+                        41.9083259
+                    ]
+                },
+                "properties": {
+                    "Title": "Varchi e Orari ZTL",
+                    "Description": "In questo box troverai le informazioni relative alla posizione del varco ZTL e relativi orari di funzionamento.",
+                    "Zona": "ZTL Roma centro storico notturna",
+                    "Varco": "Passeggiata di Ripetta",
+                    "Orari": "23.00-3.00, le notti di venerdì e sabato",
+                    "icon": "car"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4692609,
+                        41.897178
+                    ]
+                },
+                "properties": {
+                    "Title": "Varchi e Orari ZTL",
+                    "Description": "In questo box troverai le informazioni relative alla posizione del varco ZTL e relativi orari di funzionamento.",
+                    "Zona": "ZTL Roma centro storico notturna",
+                    "Varco": "Corso Vittorio Emanuele",
+                    "Orari": "23.00-3.00, le notti di venerdì e sabato",
+                    "icon": "car"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4731044,
+                        41.8931
+                    ]
+                },
+                "properties": {
+                    "Title": "Varchi e Orari ZTL",
+                    "Description": "In questo box troverai le informazioni relative alla posizione del varco ZTL e relativi orari di funzionamento.",
+                    "Zona": "ZTL Roma centro storico notturna",
+                    "Varco": "Via Arenula",
+                    "Orari": "23.00-3.00, le notti di venerdì e sabato",
+                    "icon": "car"
+                }
+            }
+        ]
+    }
+}

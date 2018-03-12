@@ -1,0 +1,48 @@
+{
+    "Theme": "Mobilità e Trasporti",
+    "Dataset": "Incidenti stradali",
+    "Color": "#f28cb1",
+    "Data": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4655555,
+                        41.8687483
+                    ]
+                },
+                "id": "6",
+                "properties": {
+                    "Title": "Incidenti stradali",
+                    "Description": "In questo box troverai le informazioni relative agli incidenti stradali.",
+                    "Indirizzo": "Viale Marconi, 22",
+                    "Data e Orario": "12:22",
+                    "Gravità": "Media",
+                    "icon": "car"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4437931,
+                        41.9290787
+                    ]
+                },
+                "id": "7",
+                "properties": {
+                    "Title": "Incidenti stradali",
+                    "Description": "In questo box troverai le informazioni relative agli incidenti stradali.",
+                    "Indirizzo": "Via della Camilluccia, 15",
+                    "Data e Orario": "16:40",
+                    "Gravità": "Bassa",
+                    "icon": "car"                    
+                }
+            }
+        ]
+    }
+}

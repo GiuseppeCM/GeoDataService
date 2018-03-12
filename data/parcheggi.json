@@ -1,0 +1,50 @@
+{
+    "Theme": "Mobilità e Trasporti",
+    "Dataset": "Lista Parcheggi",
+    "Color":"#f1f075",
+    "Data": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4904306,
+                        41.8947772
+                    ]
+                },
+                "properties": {
+                    "Title": "Lista Parcheggi",
+                    "Description": "In questo box troverai le informazioni relative alla diponibilità di posti nelle rimesse, garage e parcheggi.",
+                    "Nome": "Garage Palatino Dino",
+                    "Indirizzo": "Via Leonina, 44",
+                    "Telefono": "064817468",
+                    "Posti disponibili": 120,
+                    "Posti liberi": 8,
+                    "icon": "car"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        12.4872103,
+                        41.895712
+                    ]
+                },
+                "properties": {
+                    "Title": "Lista Parcheggi",
+                    "Description": "In questo box troverai le informazioni relative alla diponibilità di posti nelle rimesse, garage e parcheggi.",
+                    "Nome": "Parcheggio Roma Monti",
+                    "Indirizzo": "Via di Sant'Agata Dei Goti, 19",
+                    "Telefono": "066791518",
+                    "Posti disponibili": 50,
+                    "Posti liberi": 12,
+                    "icon": "car"
+                }
+            }
+        ]
+    }
+}

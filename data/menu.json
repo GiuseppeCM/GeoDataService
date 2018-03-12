@@ -1,0 +1,24 @@
+[{
+    "id" : "parcheggi",
+    "title" : "Lista parcheggi",
+    "description" : "Elenco dei parcheggi e posti disponibili",
+    "url" : "http://localhost:5000/geodata/parcheggi",
+    "iconUrl" : "http://localhost:5000/images/park.png",
+    "selected" : false
+},
+{
+    "id" : "ztl",
+    "title" : "Varchi e orari ZTL",
+    "description" : "Elenco dei varchi ZTL e relativi orari di funzionamento",
+    "url" : "http://localhost:5000/geodata/ztl",
+    "iconUrl" : "http://localhost:5000/images/ztl.png",
+    "selected" : false
+},
+{
+    "id" : "incidenti",
+    "title" : "Incidenti stradali",
+    "description" : "Elenco degli incidenti stradali",
+    "url" : "http://localhost:5000/geodata/incidenti",
+    "iconUrl" : "http://localhost:5000/images/crash.png",
+    "selected" : false
+}]
